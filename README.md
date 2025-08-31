@@ -20,4 +20,4 @@ KH99001
 KH33445
 KH66778
 
-The next Step to get the Api's so that will get all the real time data and don't need to make our own.
+The next Step to get the Api's so that we can get all the real time data and don't need to make our own.
